@@ -1,0 +1,24 @@
+/**************TAG SELECTOR**************/
+h1{
+  color: red; font-size: 200px;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+/**************CLASS SELECTOR**************/
+
+.strawberry{
+  background-color: black;
+}
+.cherries{
+  background-color: yellow;
+}
+.circular{
+  border-radius: 100%;
+}
+/**************CLASS SELECTOR**************/
+#heading{
+  color: blue;
+}
